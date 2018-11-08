@@ -7,3 +7,4 @@ public class Garage{
         system.out.print("|*]");
     }
 }
+ 

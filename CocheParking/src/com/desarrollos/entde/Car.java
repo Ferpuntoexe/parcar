@@ -15,7 +15,7 @@ public class Car
     
     Garage theGarage=null;
 
-    
+     
     /**
      * Constructor of a car specifying the garage object
      */
